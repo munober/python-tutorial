@@ -1,10 +1,5 @@
-# Python Tech Tag
-
-Hier gibt es Materialien für das Python Workshop am Freitag, dem 13. Dezember 2019, Tech-Tag des jetzigen adveisor Jahrgangs.
-Das Workshop wird zweisprachig gehalten; das bedeutet ihr dürft sowohl Deutsch als auch Englisch in der Kommunikation mit den Tutoren benutzen.
-Der Einfachheit halber werden wir ab jetzt in diesen Unterlagen ausschließlich Englisch benutzen. 
-
-**English part starts here, German can be used when asking tutors.**
+# Python Tutorial 
+I held this quick python workshop in school a while back and since it can be worked on by anyone sitting in front of a computer, I decided to leave it on my github even after the workshop itself was done.
 
 Just before you get to working on the challenge, I will state my 3 main goals with this workshop:
 
