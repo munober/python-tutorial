@@ -6,7 +6,7 @@ myfile = f.read()
 ### DONT CHAGE CODE ABOVE <<<<<
 
 ### ENTER YOUR CODE STARTING HERE >>>>>
-websiteKey = "keylessEntrySantaSleigh" ### You have to find this key on the website!
+websiteKey = "" ### You have to find this key on the website!
 
 class Elf:
 	"Blueprint of a magical Elf"
